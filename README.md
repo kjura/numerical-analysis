@@ -1,2 +1,2 @@
 # papa-euler
-ODE solving methods implemented by hand
+Numerical analysis scripts and tools for everyday use.
